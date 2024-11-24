@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <name>Name:John Doe</name>
+    <department>Department:Department 1</department>
+    <faculty>Faculty:FCSC</faculty>
+    <disciplines>Grades:
+	Course 1:95
+	Course 2:87</disciplines>
+  </student>
+  <student>
+    <name>Name:Alex Albon</name>
+    <department>Department:Department 2</department>
+    <faculty>Faculty:FCSC</faculty>
+    <disciplines>Grades:
+	Course 3:76
+	Course 3:76
+	Course 4:88</disciplines>
+  </student>
+  <student>
+    <name>Name:Mary Smith</name>
+    <department>Department:Department 1</department>
+    <faculty>Faculty:FCSC</faculty>
+    <disciplines>Grades:
+	Course 1:90
+	Course 2:88
+	Course 3:92</disciplines>
+  </student>
+  <student>
+    <name>Name:Emily Evans</name>
+    <department>Department:Department 2</department>
+    <faculty>Faculty:FCSC</faculty>
+    <disciplines>Grades:
+	Course 4:85
+	Course 5:78</disciplines>
+  </student>
+  <student>
+    <name>Name:Emma Johnson</name>
+    <department>Department:Department 3</department>
+    <faculty>Faculty:FEAS</faculty>
+    <disciplines>Grades:
+	Course 6:91
+	Course 7:84</disciplines>
+  </student>
+  <student>
+    <name>Name:Michael Miller</name>
+    <department>Department:Department 4</department>
+    <faculty>Faculty:FASS</faculty>
+    <disciplines>Grades:
+	Course 8:79
+	Course 9:93</disciplines>
+  </student>
+  <student>
+    <name>Name:Liam Davis</name>
+    <department>Department:Department 5</department>
+    <faculty>Faculty:FASS</faculty>
+    <disciplines>Grades:
+	Course 10:88
+	Course 11:95</disciplines>
+  </student>
+  <student>
+    <name>Name:Sophia Anderson</name>
+    <department>Department:Department 6</department>
+    <faculty>Faculty:FMS</faculty>
+    <disciplines>Grades:
+	Course 12:82
+	Course 13:90</disciplines>
+  </student>
+  <student>
+    <name>Name:Ethan Wilson</name>
+    <department>Department:Department 7</department>
+    <faculty>Faculty:FHSS</faculty>
+    <disciplines>Grades:
+	Course 18:87
+	Course 19:78</disciplines>
+  </student>
+</students>
